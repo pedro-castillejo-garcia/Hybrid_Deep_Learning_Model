@@ -1,4 +1,4 @@
-# Hybrid_Deep_Learning_Model
+# Hybrid Deep Learning Model
 
 ### Author: Pedro Castillejo Garcia
 
